@@ -6,7 +6,7 @@ public class Renzo {
 
     private String surname;
 
-    private String email;
+    private String 
 
     public Renzo(String name, String surname) {
         this.name = name;
