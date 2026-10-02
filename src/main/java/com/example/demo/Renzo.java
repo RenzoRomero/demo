@@ -8,8 +8,6 @@ public class Renzo {
 
     private Integer age;
 
-    private String status;
-
     public Renzo(String name, String surname) {
         this.name = name;
         this.surname = surname;
